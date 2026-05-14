@@ -1,0 +1,902 @@
+[
+  {
+    "review_id": "REV2654",
+    "product_id": "Product_E",
+    "rating": "3",
+    "review_text": "neither good nor bad. highly recommend.",
+    "sentiment": "positive",
+    "topic": "general feedback",
+    "confidence": 0.75
+  },
+  {
+    "review_id": "REV2114",
+    "product_id": "Product_A",
+    "rating": "5",
+    "review_text": "fantastic. love this product.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2025",
+    "product_id": "Product_A",
+    "rating": "3",
+    "review_text": "it's okay. five stars.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2759",
+    "product_id": "Product_A",
+    "rating": "4",
+    "review_text": "five stars. excellent quality.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2281",
+    "product_id": "Product_B",
+    "rating": "3",
+    "review_text": "nothing special. bad experience.",
+    "sentiment": "negative",
+    "topic": "experience",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2250",
+    "product_id": "Product_B",
+    "rating": "2",
+    "review_text": "worst purchase. does not work.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2228",
+    "product_id": "Product_A",
+    "rating": "1",
+    "review_text": "awful. broke easily.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "REV2142",
+    "product_id": "Product_A",
+    "rating": "2",
+    "review_text": "would not recommend. bad experience. could be better.",
+    "sentiment": "negative",
+    "topic": "experience",
+    "confidence": 0.92
+  },
+  {
+    "review_id": "REV2754",
+    "product_id": "Product_E",
+    "rating": "5",
+    "review_text": "great value. excellent quality. average product.",
+    "sentiment": "positive",
+    "topic": "product quality and value for money",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2104",
+    "product_id": "Product_B",
+    "rating": "2",
+    "review_text": "broke easily. does not work.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2692",
+    "product_id": "Product_A",
+    "rating": "4",
+    "review_text": "works perfectly. best purchase ever.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2758",
+    "product_id": "Product_D",
+    "rating": "3",
+    "review_text": "neither good nor bad. difficult to use.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2913",
+    "product_id": "Product_D",
+    "rating": "2",
+    "review_text": "one star. worst purchase.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2558",
+    "product_id": "Product_C",
+    "rating": "3",
+    "review_text": "could be better. love this product.",
+    "sentiment": "mixed",
+    "topic": "product",
+    "confidence": 0.5
+  },
+  {
+    "review_id": "REV2089",
+    "product_id": "Product_D",
+    "rating": "2",
+    "review_text": "waste of money. awful. nothing special.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2604",
+    "product_id": "Product_E",
+    "rating": "3",
+    "review_text": "it's okay. wonderful experience.",
+    "sentiment": "positive",
+    "topic": "experience",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2432",
+    "product_id": "Product_D",
+    "rating": "1",
+    "review_text": "poor quality. would not recommend.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "REV2032",
+    "product_id": "Product_D",
+    "rating": "4",
+    "review_text": "easy to use. excellent quality.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2030",
+    "product_id": "Product_A",
+    "rating": "3",
+    "review_text": "met expectations. does not work.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2095",
+    "product_id": "Product_C",
+    "rating": "1",
+    "review_text": "missing features. very disappointed.",
+    "sentiment": "negative",
+    "topic": "missing features",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2223",
+    "product_id": "Product_E",
+    "rating": "5",
+    "review_text": "highly recommend. very satisfied. works as expected.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2238",
+    "product_id": "Product_B",
+    "rating": "2",
+    "review_text": "poor quality. poor quality. it's okay.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2517",
+    "product_id": "Product_B",
+    "rating": "3",
+    "review_text": "decent for the price. works perfectly.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2616",
+    "product_id": "Product_D",
+    "rating": "1",
+    "review_text": "poor quality. bad experience. some pros and cons.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2027",
+    "product_id": "Product_E",
+    "rating": "4",
+    "review_text": "love this product. works perfectly.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2574",
+    "product_id": "Product_E",
+    "rating": "1",
+    "review_text": "terrible product. missing features.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2203",
+    "product_id": "Product_A",
+    "rating": "1",
+    "review_text": "worst purchase. terrible product. works as expected.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2733",
+    "product_id": "Product_D",
+    "rating": "4",
+    "review_text": "best purchase ever. great value.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2665",
+    "product_id": "Product_D",
+    "rating": "4",
+    "review_text": "amazing features. wonderful experience.",
+    "sentiment": "positive",
+    "topic": "product features",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2718",
+    "product_id": "Product_A",
+    "rating": "2",
+    "review_text": "very disappointed. awful. works as expected.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.8
+  },
+  {
+    "review_id": "REV2986",
+    "product_id": "Product_B",
+    "rating": "1",
+    "review_text": "broke easily. customer service was bad. met expectations.",
+    "sentiment": "negative",
+    "topic": "customer service",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2429",
+    "product_id": "Product_D",
+    "rating": "3",
+    "review_text": "decent for the price. wonderful experience.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2225",
+    "product_id": "Product_C",
+    "rating": "5",
+    "review_text": "amazing features. great value.",
+    "sentiment": "positive",
+    "topic": "product features and value",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2459",
+    "product_id": "Product_C",
+    "rating": "3",
+    "review_text": "met expectations. one star.",
+    "sentiment": "neutral",
+    "topic": "general feedback",
+    "confidence": 0.5
+  },
+  {
+    "review_id": "REV2603",
+    "product_id": "Product_C",
+    "rating": "3",
+    "review_text": "it's okay. excellent quality.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2284",
+    "product_id": "Product_B",
+    "rating": "4",
+    "review_text": "easy to use. fantastic.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2828",
+    "product_id": "Product_C",
+    "rating": "4",
+    "review_text": "excellent quality. wonderful experience.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2890",
+    "product_id": "Product_B",
+    "rating": "5",
+    "review_text": "works perfectly. easy to use.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2006",
+    "product_id": "Product_A",
+    "rating": "5",
+    "review_text": "highly recommend. amazing features.",
+    "sentiment": "positive",
+    "topic": "product features",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2777",
+    "product_id": "Product_D",
+    "rating": "1",
+    "review_text": "terrible product. difficult to use.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2825",
+    "product_id": "Product_A",
+    "rating": "3",
+    "review_text": "average product. difficult to use.",
+    "sentiment": "negative",
+    "topic": "product usability",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2163",
+    "product_id": "Product_E",
+    "rating": "1",
+    "review_text": "terrible product. one star. average product.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2714",
+    "product_id": "Product_C",
+    "rating": "3",
+    "review_text": "neither good nor bad. fantastic.",
+    "sentiment": "neutral",
+    "topic": null,
+    "confidence": 0.75
+  },
+  {
+    "review_id": "REV2983",
+    "product_id": "Product_C",
+    "rating": "3",
+    "review_text": "it's okay. five stars.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2348",
+    "product_id": "Product_B",
+    "rating": "5",
+    "review_text": "fantastic. love this product.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2964",
+    "product_id": "Product_A",
+    "rating": "5",
+    "review_text": "works perfectly. wonderful experience. nothing special.",
+    "sentiment": "positive",
+    "topic": "product experience",
+    "confidence": 0.92
+  },
+  {
+    "review_id": "REV2159",
+    "product_id": "Product_B",
+    "rating": "2",
+    "review_text": "poor quality. customer service was bad.",
+    "sentiment": "negative",
+    "topic": "customer service",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2220",
+    "product_id": "Product_C",
+    "rating": "3",
+    "review_text": "neither good nor bad. love this product.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2781",
+    "product_id": "Product_C",
+    "rating": "1",
+    "review_text": "very disappointed. would not recommend.",
+    "sentiment": "negative",
+    "topic": "general dissatisfaction",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2344",
+    "product_id": "Product_C",
+    "rating": "4",
+    "review_text": "exceeded expectations. amazing features.",
+    "sentiment": "positive",
+    "topic": "product features",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2990",
+    "product_id": "Product_C",
+    "rating": "3",
+    "review_text": "nothing special. missing features.",
+    "sentiment": "negative",
+    "topic": "missing features",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2094",
+    "product_id": "Product_E",
+    "rating": "5",
+    "review_text": "love this product. excellent quality.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2389",
+    "product_id": "Product_A",
+    "rating": "5",
+    "review_text": "fantastic. excellent quality. nothing special.",
+    "sentiment": "mixed",
+    "topic": "product quality",
+    "confidence": 0.5
+  },
+  {
+    "review_id": "REV2099",
+    "product_id": "Product_C",
+    "rating": "1",
+    "review_text": "would not recommend. customer service was bad.",
+    "sentiment": "negative",
+    "topic": "customer service",
+    "confidence": 0.92
+  },
+  {
+    "review_id": "REV2367",
+    "product_id": "Product_B",
+    "rating": "4",
+    "review_text": "easy to use. easy to use.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2867",
+    "product_id": "Product_E",
+    "rating": "2",
+    "review_text": "customer service was bad. terrible product.",
+    "sentiment": "negative",
+    "topic": "customer service and product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2352",
+    "product_id": "Product_B",
+    "rating": "2",
+    "review_text": "one star. terrible product. some pros and cons.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2618",
+    "product_id": "Product_A",
+    "rating": "4",
+    "review_text": "works perfectly. five stars.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2270",
+    "product_id": "Product_A",
+    "rating": "1",
+    "review_text": "bad experience. missing features. some pros and cons.",
+    "sentiment": "negative",
+    "topic": "product features",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2826",
+    "product_id": "Product_C",
+    "rating": "5",
+    "review_text": "works perfectly. excellent quality.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2044",
+    "product_id": "Product_E",
+    "rating": "4",
+    "review_text": "very satisfied. works perfectly.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2747",
+    "product_id": "Product_C",
+    "rating": "4",
+    "review_text": "excellent quality. love this product.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2470",
+    "product_id": "Product_A",
+    "rating": "3",
+    "review_text": "decent for the price. waste of money.",
+    "sentiment": "negative",
+    "topic": "product value",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2549",
+    "product_id": "Product_A",
+    "rating": "3",
+    "review_text": "neither good nor bad. missing features.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2127",
+    "product_id": "Product_E",
+    "rating": "4",
+    "review_text": "very satisfied. highly recommend.",
+    "sentiment": "positive",
+    "topic": "general satisfaction",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2387",
+    "product_id": "Product_C",
+    "rating": "1",
+    "review_text": "does not work. waste of money.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.9
+  },
+  {
+    "review_id": "REV2080",
+    "product_id": "Product_B",
+    "rating": "3",
+    "review_text": "decent for the price. fantastic.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2565",
+    "product_id": "Product_B",
+    "rating": "2",
+    "review_text": "customer service was bad. missing features.",
+    "sentiment": "negative",
+    "topic": "customer service, missing features",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2300",
+    "product_id": "Product_E",
+    "rating": "5",
+    "review_text": "amazing features. easy to use.",
+    "sentiment": "positive",
+    "topic": "product features and usability",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2849",
+    "product_id": "Product_B",
+    "rating": "3",
+    "review_text": "met expectations. customer service was bad.",
+    "sentiment": "mixed",
+    "topic": "customer service",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2643",
+    "product_id": "Product_E",
+    "rating": "1",
+    "review_text": "poor quality. would not recommend.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2633",
+    "product_id": "Product_D",
+    "rating": "3",
+    "review_text": "works as expected. fantastic.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2906",
+    "product_id": "Product_E",
+    "rating": "2",
+    "review_text": "terrible product. worst purchase.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2882",
+    "product_id": "Product_E",
+    "rating": "3",
+    "review_text": "met expectations. five stars.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2370",
+    "product_id": "Product_C",
+    "rating": "4",
+    "review_text": "fantastic. best purchase ever. met expectations.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2591",
+    "product_id": "Product_B",
+    "rating": "1",
+    "review_text": "poor quality. difficult to use.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2196",
+    "product_id": "Product_C",
+    "rating": "1",
+    "review_text": "awful. customer service was bad.",
+    "sentiment": "negative",
+    "topic": "customer service",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2721",
+    "product_id": "Product_E",
+    "rating": "3",
+    "review_text": "neither good nor bad. excellent quality.",
+    "sentiment": "mixed",
+    "topic": "product quality",
+    "confidence": 0.75
+  },
+  {
+    "review_id": "REV2071",
+    "product_id": "Product_A",
+    "rating": "3",
+    "review_text": "average product. fantastic.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2046",
+    "product_id": "Product_E",
+    "rating": "5",
+    "review_text": "works perfectly. excellent quality.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2677",
+    "product_id": "Product_C",
+    "rating": "4",
+    "review_text": "amazing features. five stars.",
+    "sentiment": "positive",
+    "topic": "product features",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2233",
+    "product_id": "Product_E",
+    "rating": "1",
+    "review_text": "poor quality. customer service was bad.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2791",
+    "product_id": "Product_C",
+    "rating": "4",
+    "review_text": "great value. amazing features.",
+    "sentiment": "positive",
+    "topic": "product features and value",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2296",
+    "product_id": "Product_C",
+    "rating": "1",
+    "review_text": "difficult to use. would not recommend.",
+    "sentiment": "negative",
+    "topic": "product usability",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2081",
+    "product_id": "Product_A",
+    "rating": "5",
+    "review_text": "love this product. easy to use.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2875",
+    "product_id": "Product_C",
+    "rating": "2",
+    "review_text": "very disappointed. would not recommend.",
+    "sentiment": "negative",
+    "topic": "general dissatisfaction",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2978",
+    "product_id": "Product_C",
+    "rating": "2",
+    "review_text": "difficult to use. very disappointed. nothing special.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2887",
+    "product_id": "Product_A",
+    "rating": "5",
+    "review_text": "best purchase ever. wonderful experience.",
+    "sentiment": "positive",
+    "topic": "purchase experience",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2103",
+    "product_id": "Product_C",
+    "rating": "2",
+    "review_text": "very disappointed. one star.",
+    "sentiment": "negative",
+    "topic": "general dissatisfaction",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2947",
+    "product_id": "Product_E",
+    "rating": "5",
+    "review_text": "fantastic. wonderful experience. nothing special.",
+    "sentiment": "positive",
+    "topic": "experience",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2954",
+    "product_id": "Product_D",
+    "rating": "2",
+    "review_text": "one star. poor quality.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2464",
+    "product_id": "Product_B",
+    "rating": "3",
+    "review_text": "nothing special. does not work.",
+    "sentiment": "negative",
+    "topic": "product functionality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2650",
+    "product_id": "Product_E",
+    "rating": "1",
+    "review_text": "would not recommend. one star. neither good nor bad.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2854",
+    "product_id": "Product_A",
+    "rating": "5",
+    "review_text": "love this product. works perfectly.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2373",
+    "product_id": "Product_C",
+    "rating": "1",
+    "review_text": "poor quality. awful.",
+    "sentiment": "negative",
+    "topic": "product quality",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2166",
+    "product_id": "Product_E",
+    "rating": "4",
+    "review_text": "excellent quality. love this product.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  },
+  {
+    "review_id": "REV2379",
+    "product_id": "Product_A",
+    "rating": "3",
+    "review_text": "it's okay. very disappointed.",
+    "sentiment": "negative",
+    "topic": "general satisfaction",
+    "confidence": 0.85
+  },
+  {
+    "review_id": "REV2363",
+    "product_id": "Product_D",
+    "rating": "3",
+    "review_text": "decent for the price. wonderful experience.",
+    "sentiment": "positive",
+    "topic": "customer experience",
+    "confidence": 0.95
+  },
+  {
+    "review_id": "REV2214",
+    "product_id": "Product_E",
+    "rating": "3",
+    "review_text": "neither good nor bad. exceeded expectations.",
+    "sentiment": "neutral",
+    "topic": "product quality",
+    "confidence": 0.75
+  },
+  {
+    "review_id": "REV2686",
+    "product_id": "Product_C",
+    "rating": "4",
+    "review_text": "fantastic. love this product.",
+    "sentiment": "positive",
+    "topic": "product quality",
+    "confidence": 1.0
+  }
+]
